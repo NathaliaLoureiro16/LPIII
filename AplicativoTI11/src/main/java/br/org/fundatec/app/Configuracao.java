@@ -1,6 +1,6 @@
-package br.org.fundatec.ti11app;
+package br.org.fundatec.app;
 
-import br.org.fundatec.calc.CalculadoraValoresImpl;
+import br.org.fundatec.calculadora.CalculadoraValoresImpl;
 import br.org.fundatec.motorista.MotoristaDaoNaMemoria;
 import br.org.fundatec.motorista.MotoristaService;
 import br.org.fundatec.passageiro.PassageiroDaoNaMemoria;

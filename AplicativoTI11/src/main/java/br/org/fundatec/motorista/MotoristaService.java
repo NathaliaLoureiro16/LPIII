@@ -2,7 +2,7 @@ package br.org.fundatec.motorista;
 
 import java.time.LocalDate;
 
-import br.org.fundatec.calc.CalculadoraValores;
+import br.org.fundatec.calculadora.CalculadoraValores;
 import br.org.fundatec.passageiro.Passageiro;
 import br.org.fundatec.viagem.Viagem;
 

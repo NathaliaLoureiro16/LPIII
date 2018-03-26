@@ -1,6 +1,6 @@
 package br.org.fundatec.passageiro;
 
-import br.org.fundatec.calc.CalculadoraValores;
+import br.org.fundatec.calculadora.CalculadoraValores;
 import br.org.fundatec.viagem.Viagem;
 
 public class PassageiroService {

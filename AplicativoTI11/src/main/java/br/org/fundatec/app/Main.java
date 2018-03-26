@@ -1,4 +1,4 @@
-package br.org.fundatec.ti11app;
+package br.org.fundatec.app;
 
 public class Main {
     public static void main(String[] args) {

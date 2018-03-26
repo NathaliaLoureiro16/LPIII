@@ -1,4 +1,4 @@
-package br.org.fundatec.calc;
+package br.org.fundatec.calculadora;
 
 import java.time.LocalDate;
 

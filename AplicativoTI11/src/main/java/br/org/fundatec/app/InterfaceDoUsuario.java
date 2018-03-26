@@ -1,4 +1,4 @@
-package br.org.fundatec.ti11app;
+package br.org.fundatec.app;
 
 import java.time.LocalDate;
 import java.util.Scanner;
